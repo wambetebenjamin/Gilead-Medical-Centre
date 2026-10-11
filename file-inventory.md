@@ -1,0 +1,341 @@
+# Initial source file inventory
+
+Captured immediately after extracting `argon-v1.0.0.zip` and before application code was added.
+
+- Archive: `argon-v1.0.0.zip` (2,655,873 bytes)
+- Archive entries: 325 (287 files, 38 directories)
+- Extracted to the repository root with paths preserved.
+
+## Complete archive tree
+
+File sizes are uncompressed bytes; directory entries are marked `/`.
+
+- `.gitattributes` — 66 bytes
+- `assets/` `/`
+- `assets/css/` `/`
+- `assets/css/argon.css` — 300,056 bytes
+- `assets/css/argon.min.css` — 227,976 bytes
+- `assets/img/` `/`
+- `assets/img/brand/` `/`
+- `assets/img/brand/blue.png` — 7,883 bytes
+- `assets/img/brand/creativetim-white-slim.png` — 27,344 bytes
+- `assets/img/brand/favicon.png` — 18,468 bytes
+- `assets/img/brand/github-white-slim.png` — 20,287 bytes
+- `assets/img/brand/white.png` — 7,714 bytes
+- `assets/img/icons/` `/`
+- `assets/img/icons/common/` `/`
+- `assets/img/icons/common/github.svg` — 2,153 bytes
+- `assets/img/icons/common/google.svg` — 2,216 bytes
+- `assets/img/ill/` `/`
+- `assets/img/ill/ill-2.svg` — 78,301 bytes
+- `assets/img/theme/` `/`
+- `assets/img/theme/img-1-1200x1000.jpg` — 223,286 bytes
+- `assets/img/theme/img-2-1200x1000.jpg` — 219,925 bytes
+- `assets/img/theme/landing.jpg` — 137,336 bytes
+- `assets/img/theme/profile.jpg` — 108,543 bytes
+- `assets/img/theme/promo-1.png` — 45,330 bytes
+- `assets/img/theme/team-1-800x800.jpg` — 166,436 bytes
+- `assets/img/theme/team-2-800x800.jpg` — 266,315 bytes
+- `assets/img/theme/team-3-800x800.jpg` — 173,325 bytes
+- `assets/img/theme/team-4-800x800.jpg` — 124,734 bytes
+- `assets/js/` `/`
+- `assets/js/argon.js` — 5,249 bytes
+- `assets/js/argon.min.js` — 3,224 bytes
+- `assets/scss/` `/`
+- `assets/scss/argon.scss` — 2,750 bytes
+- `assets/scss/bootstrap/` `/`
+- `assets/scss/bootstrap/_alert.scss` — 1,150 bytes
+- `assets/scss/bootstrap/_badge.scss` — 982 bytes
+- `assets/scss/bootstrap/_breadcrumb.scss` — 1,278 bytes
+- `assets/scss/bootstrap/_button-group.scss` — 3,740 bytes
+- `assets/scss/bootstrap/_buttons.scss` — 2,712 bytes
+- `assets/scss/bootstrap/_card.scss` — 6,037 bytes
+- `assets/scss/bootstrap/_carousel.scss` — 5,253 bytes
+- `assets/scss/bootstrap/_close.scss` — 873 bytes
+- `assets/scss/bootstrap/_code.scss` — 968 bytes
+- `assets/scss/bootstrap/_custom-forms.scss` — 12,262 bytes
+- `assets/scss/bootstrap/_dropdown.scss` — 3,753 bytes
+- `assets/scss/bootstrap/_forms.scss` — 8,757 bytes
+- `assets/scss/bootstrap/_functions.scss` — 2,660 bytes
+- `assets/scss/bootstrap/_grid.scss` — 1,016 bytes
+- `assets/scss/bootstrap/_images.scss` — 1,146 bytes
+- `assets/scss/bootstrap/_input-group.scss` — 5,359 bytes
+- `assets/scss/bootstrap/_jumbotron.scss` — 378 bytes
+- `assets/scss/bootstrap/_list-group.scss` — 2,887 bytes
+- `assets/scss/bootstrap/_media.scss` — 83 bytes
+- `assets/scss/bootstrap/_mixins.scss` — 984 bytes
+- `assets/scss/bootstrap/_modal.scss` — 4,934 bytes
+- `assets/scss/bootstrap/_nav.scss` — 2,022 bytes
+- `assets/scss/bootstrap/_navbar.scss` — 6,529 bytes
+- `assets/scss/bootstrap/_pagination.scss` — 1,874 bytes
+- `assets/scss/bootstrap/_popover.scss` — 4,536 bytes
+- `assets/scss/bootstrap/_print.scss` — 3,003 bytes
+- `assets/scss/bootstrap/_progress.scss` — 864 bytes
+- `assets/scss/bootstrap/_reboot.scss` — 11,551 bytes
+- `assets/scss/bootstrap/_root.scss` — 572 bytes
+- `assets/scss/bootstrap/_tables.scss` — 3,519 bytes
+- `assets/scss/bootstrap/_tooltip.scss` — 2,503 bytes
+- `assets/scss/bootstrap/_transitions.scss` — 311 bytes
+- `assets/scss/bootstrap/_type.scss` — 2,115 bytes
+- `assets/scss/bootstrap/_utilities.scss` — 436 bytes
+- `assets/scss/bootstrap/_variables.scss` — 38,670 bytes
+- `assets/scss/bootstrap/mixins/` `/`
+- `assets/scss/bootstrap/mixins/_alert.scss` — 242 bytes
+- `assets/scss/bootstrap/mixins/_background-variant.scss` — 474 bytes
+- `assets/scss/bootstrap/mixins/_badge.scss` — 230 bytes
+- `assets/scss/bootstrap/mixins/_border-radius.scss` — 722 bytes
+- `assets/scss/bootstrap/mixins/_box-shadow.scss` — 87 bytes
+- `assets/scss/bootstrap/mixins/_breakpoints.scss` — 4,469 bytes
+- `assets/scss/bootstrap/mixins/_buttons.scss` — 3,182 bytes
+- `assets/scss/bootstrap/mixins/_caret.scss` — 1,478 bytes
+- `assets/scss/bootstrap/mixins/_clearfix.scss` — 93 bytes
+- `assets/scss/bootstrap/mixins/_float.scss` — 193 bytes
+- `assets/scss/bootstrap/mixins/_forms.scss` — 3,487 bytes
+- `assets/scss/bootstrap/mixins/_gradients.scss` — 2,050 bytes
+- `assets/scss/bootstrap/mixins/_grid-framework.scss` — 1,899 bytes
+- `assets/scss/bootstrap/mixins/_grid.scss` — 1,606 bytes
+- `assets/scss/bootstrap/mixins/_hover.scss` — 749 bytes
+- `assets/scss/bootstrap/mixins/_image.scss` — 1,172 bytes
+- `assets/scss/bootstrap/mixins/_list-group.scss` — 431 bytes
+- `assets/scss/bootstrap/mixins/_lists.scss` — 168 bytes
+- `assets/scss/bootstrap/mixins/_nav-divider.scss` — 261 bytes
+- `assets/scss/bootstrap/mixins/_pagination.scss` — 453 bytes
+- `assets/scss/bootstrap/mixins/_reset-text.scss` — 547 bytes
+- `assets/scss/bootstrap/mixins/_resize.scss` — 202 bytes
+- `assets/scss/bootstrap/mixins/_screen-reader.scss` — 733 bytes
+- `assets/scss/bootstrap/mixins/_size.scss` — 98 bytes
+- `assets/scss/bootstrap/mixins/_table-row.scss` — 647 bytes
+- `assets/scss/bootstrap/mixins/_text-emphasis.scss` — 259 bytes
+- `assets/scss/bootstrap/mixins/_text-hide.scss` — 398 bytes
+- `assets/scss/bootstrap/mixins/_text-truncate.scss` — 168 bytes
+- `assets/scss/bootstrap/mixins/_transition.scss` — 274 bytes
+- `assets/scss/bootstrap/mixins/_visibility.scss` — 134 bytes
+- `assets/scss/bootstrap/utilities/` `/`
+- `assets/scss/bootstrap/utilities/_align.scss` — 420 bytes
+- `assets/scss/bootstrap/utilities/_background.scss` — 397 bytes
+- `assets/scss/bootstrap/utilities/_borders.scss` — 1,551 bytes
+- `assets/scss/bootstrap/utilities/_clearfix.scss` — 37 bytes
+- `assets/scss/bootstrap/utilities/_display.scss` — 1,409 bytes
+- `assets/scss/bootstrap/utilities/_embed.scss` — 727 bytes
+- `assets/scss/bootstrap/utilities/_flex.scss` — 2,769 bytes
+- `assets/scss/bootstrap/utilities/_float.scss` — 320 bytes
+- `assets/scss/bootstrap/utilities/_position.scss` — 674 bytes
+- `assets/scss/bootstrap/utilities/_screenreaders.scss` — 115 bytes
+- `assets/scss/bootstrap/utilities/_shadows.scss` — 249 bytes
+- `assets/scss/bootstrap/utilities/_sizing.scss` — 298 bytes
+- `assets/scss/bootstrap/utilities/_spacing.scss` — 1,406 bytes
+- `assets/scss/bootstrap/utilities/_text.scss` — 1,576 bytes
+- `assets/scss/bootstrap/utilities/_visibility.scss` — 121 bytes
+- `assets/scss/custom/` `/`
+- `assets/scss/custom/_accordion.scss` — 0 bytes
+- `assets/scss/custom/_alerts.scss` — 1,535 bytes
+- `assets/scss/custom/_avatars.scss` — 678 bytes
+- `assets/scss/custom/_badge.scss` — 953 bytes
+- `assets/scss/custom/_buttons.scss` — 2,703 bytes
+- `assets/scss/custom/_card.scss` — 2,010 bytes
+- `assets/scss/custom/_carousel.scss` — 22 bytes
+- `assets/scss/custom/_close.scss` — 661 bytes
+- `assets/scss/custom/_custom-forms.scss` — 4,622 bytes
+- `assets/scss/custom/_dropdown.scss` — 1,455 bytes
+- `assets/scss/custom/_footer.scss` — 1,596 bytes
+- `assets/scss/custom/_forms.scss` — 2,453 bytes
+- `assets/scss/custom/_functions.scss` — 568 bytes
+- `assets/scss/custom/_global.scss` — 4,306 bytes
+- `assets/scss/custom/_grid.scss` — 77 bytes
+- `assets/scss/custom/_icons.scss` — 1,199 bytes
+- `assets/scss/custom/_input-group.scss` — 1,119 bytes
+- `assets/scss/custom/_list-group.scss` — 694 bytes
+- `assets/scss/custom/_mixins.scss` — 306 bytes
+- `assets/scss/custom/_modal.scss` — 421 bytes
+- `assets/scss/custom/_nav.scss` — 1,594 bytes
+- `assets/scss/custom/_navbar.scss` — 7,977 bytes
+- `assets/scss/custom/_pagination.scss` — 703 bytes
+- `assets/scss/custom/_popover.scss` — 220 bytes
+- `assets/scss/custom/_progress.scss` — 1,258 bytes
+- `assets/scss/custom/_reboot.scss` — 494 bytes
+- `assets/scss/custom/_section.scss` — 12,160 bytes
+- `assets/scss/custom/_type.scss` — 1,440 bytes
+- `assets/scss/custom/_utilities.scss` — 329 bytes
+- `assets/scss/custom/_variables.scss` — 31,890 bytes
+- `assets/scss/custom/mixins/` `/`
+- `assets/scss/custom/mixins/_alert.scss` — 279 bytes
+- `assets/scss/custom/mixins/_background-variant.scss` — 449 bytes
+- `assets/scss/custom/mixins/_badge.scss` — 292 bytes
+- `assets/scss/custom/mixins/_buttons.scss` — 3,361 bytes
+- `assets/scss/custom/mixins/_forms.scss` — 2,679 bytes
+- `assets/scss/custom/mixins/_icon.scss` — 147 bytes
+- `assets/scss/custom/mixins/_modals.scss` — 390 bytes
+- `assets/scss/custom/mixins/_popover.scss` — 614 bytes
+- `assets/scss/custom/utilities/` `/`
+- `assets/scss/custom/utilities/_backgrounds.scss` — 799 bytes
+- `assets/scss/custom/utilities/_floating.scss` — 809 bytes
+- `assets/scss/custom/utilities/_helper.scss` — 816 bytes
+- `assets/scss/custom/utilities/_shadows.scss` — 348 bytes
+- `assets/scss/custom/utilities/_sizing.scss` — 64 bytes
+- `assets/scss/custom/utilities/_spacing.scss` — 2,039 bytes
+- `assets/scss/custom/utilities/_text.scss` — 912 bytes
+- `assets/scss/custom/utilities/_transform.scss` — 276 bytes
+- `assets/scss/custom/vendor/` `/`
+- `assets/scss/custom/vendor/_bootstrap-datepicker.scss` — 7,175 bytes
+- `assets/scss/custom/vendor/_headroom.scss` — 449 bytes
+- `assets/scss/custom/vendor/_nouislider.scss` — 7,550 bytes
+- `assets/vendor/` `/`
+- `assets/vendor/bootstrap-datepicker/` `/`
+- `assets/vendor/bootstrap-datepicker/css/` `/`
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.css` — 17,190 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.css.map` — 18,548 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.min.css` — 15,731 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css` — 18,056 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.css.map` — 20,785 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css` — 16,452 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.css` — 22,835 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.css.map` — 23,849 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css` — 21,100 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css` — 23,600 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.css.map` — 25,703 bytes
+- `assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.standalone.min.css` — 21,734 bytes
+- `assets/vendor/bootstrap-datepicker/js/` `/`
+- `assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.js` — 57,647 bytes
+- `assets/vendor/bootstrap-datepicker/js/bootstrap-datepicker.min.js` — 33,599 bytes
+- `assets/vendor/bootstrap-datepicker/locales/` `/`
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker-en-CA.min.js` — 636 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ar-tn.min.js` — 704 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ar.min.js` — 714 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.az.min.js` — 493 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.bg.min.js` — 615 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.bn.min.js` — 1,210 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.br.min.js` — 510 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.bs.min.js` — 475 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ca.min.js` — 513 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.cs.min.js` — 536 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.cy.min.js` — 433 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.da.min.js` — 514 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.de.min.js` — 517 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.el.min.js` — 764 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-AU.min.js` — 517 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-CA.min.js` — 518 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-GB.min.js` — 518 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-IE.min.js` — 518 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-NZ.min.js` — 517 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.en-ZA.min.js` — 517 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.eo.min.js` — 515 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.es.min.js` — 513 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.et.min.js` — 537 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.eu.min.js` — 528 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.fa.min.js` — 670 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.fi.min.js` — 528 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.fo.min.js` — 488 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.fr-CH.min.js` — 512 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.fr.min.js` — 536 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.gl.min.js` — 489 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.he.min.js` — 563 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.hi.min.js` — 944 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.hr.min.js` — 462 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.hu.min.js` — 541 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.hy.min.js` — 757 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.id.min.js` — 453 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.is.min.js` — 496 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js` — 506 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.it.min.js` — 525 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ja.min.js` — 502 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ka.min.js` — 970 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.kh.min.js` — 1,076 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.kk.min.js` — 649 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.km.min.js` — 945 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ko.min.js` — 532 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.kr.min.js` — 575 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.lt.min.js` — 565 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.lv.min.js` — 526 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.me.min.js` — 493 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.mk.min.js` — 657 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.mn.min.js` — 638 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ms.min.js` — 448 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.nl-BE.min.js` — 522 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.nl.min.js` — 513 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.no.min.js` — 515 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.oc.min.js` — 515 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.pl.min.js` — 552 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.pt-BR.min.js` — 504 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.pt.min.js` — 498 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ro.min.js` — 505 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.rs-latin.min.js` — 662 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.rs.min.js` — 817 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ru.min.js` — 731 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.si.min.js` — 988 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sk.min.js` — 497 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sl.min.js` — 455 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sq.min.js` — 452 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sr-latin.min.js` — 478 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sr.min.js` — 651 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sv.min.js` — 492 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.sw.min.js` — 431 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.ta.min.js` — 934 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.tg.min.js` — 700 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.th.min.js` — 833 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.tk.min.js` — 530 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.tr.min.js` — 495 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.uk.min.js` — 722 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.uz-cyrl.min.js` — 703 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.uz-latn.min.js` — 516 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.vi.min.js` — 551 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.zh-CN.min.js` — 593 bytes
+- `assets/vendor/bootstrap-datepicker/locales/bootstrap-datepicker.zh-TW.min.js` — 566 bytes
+- `assets/vendor/bootstrap/` `/`
+- `assets/vendor/bootstrap/bootstrap.js` — 115,048 bytes
+- `assets/vendor/bootstrap/bootstrap.js.map` — 195,373 bytes
+- `assets/vendor/bootstrap/bootstrap.min.js` — 48,944 bytes
+- `assets/vendor/bootstrap/bootstrap.min.js.map` — 161,998 bytes
+- `assets/vendor/font-awesome/` `/`
+- `assets/vendor/font-awesome/css/` `/`
+- `assets/vendor/font-awesome/css/font-awesome.css` — 37,414 bytes
+- `assets/vendor/font-awesome/css/font-awesome.min.css` — 31,000 bytes
+- `assets/vendor/font-awesome/fonts/` `/`
+- `assets/vendor/font-awesome/fonts/fontawesome-webfont.eot` — 165,742 bytes
+- `assets/vendor/font-awesome/fonts/fontawesome-webfont.svg` — 444,379 bytes
+- `assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf` — 165,548 bytes
+- `assets/vendor/font-awesome/fonts/fontawesome-webfont.woff` — 98,024 bytes
+- `assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2` — 77,160 bytes
+- `assets/vendor/font-awesome/fonts/FontAwesome.otf` — 134,808 bytes
+- `assets/vendor/headroom/` `/`
+- `assets/vendor/headroom/headroom.min.js` — 5,359 bytes
+- `assets/vendor/jquery/` `/`
+- `assets/vendor/jquery/jquery.min.js` — 86,659 bytes
+- `assets/vendor/nouislider/` `/`
+- `assets/vendor/nouislider/css/` `/`
+- `assets/vendor/nouislider/css/nouislider.css` — 5,256 bytes
+- `assets/vendor/nouislider/css/nouislider.min.css` — 3,818 bytes
+- `assets/vendor/nouislider/js/` `/`
+- `assets/vendor/nouislider/js/nouislider.js` — 65,554 bytes
+- `assets/vendor/nouislider/js/nouislider.min.js` — 22,052 bytes
+- `assets/vendor/nucleo/` `/`
+- `assets/vendor/nucleo/css/` `/`
+- `assets/vendor/nucleo/css/nucleo-svg.css` — 2,253 bytes
+- `assets/vendor/nucleo/css/nucleo.css` — 9,015 bytes
+- `assets/vendor/nucleo/fonts/` `/`
+- `assets/vendor/nucleo/fonts/nucleo-icons.eot` — 18,516 bytes
+- `assets/vendor/nucleo/fonts/nucleo-icons.svg` — 126,098 bytes
+- `assets/vendor/nucleo/fonts/nucleo-icons.ttf` — 18,292 bytes
+- `assets/vendor/nucleo/fonts/nucleo-icons.woff` — 10,220 bytes
+- `assets/vendor/nucleo/fonts/nucleo-icons.woff2` — 8,580 bytes
+- `assets/vendor/onscreen/` `/`
+- `assets/vendor/onscreen/onscreen.min.js` — 3,938 bytes
+- `assets/vendor/popper/` `/`
+- `assets/vendor/popper/popper.js` — 78,245 bytes
+- `assets/vendor/popper/popper.min.js` — 18,994 bytes
+- `changelog.md` — 56 bytes
+- `docs/` `/`
+- `docs/documentation.html` — 7,268 bytes
+- `examples/` `/`
+- `examples/landing.html` — 35,589 bytes
+- `examples/login.html` — 13,323 bytes
+- `examples/profile.html` — 12,748 bytes
+- `examples/register.html` — 13,822 bytes
+- `gulpfile.js` — 3,298 bytes
+- `index.html` — 93,921 bytes
+- `license.md` — 1,155 bytes
+- `package.json` — 975 bytes
+- `readme.md` — 1,818 bytes
+
+## Repository input not contained in the archive
+
+- `argon-v1.0.0.zip` — 2,655,873 bytes (original source archive retained).
